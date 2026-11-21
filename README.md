@@ -9,6 +9,8 @@ of wire copy: Iran and the Gulf, APEC in Shenzhen, the EU's Ukraine package, the
 Fed's slower easing and gold, Voyager 1 at one light-day, and Pakistan's missile
 test.
 
+![19 November 2026 in one image](entry.png)
+
 ## Run it
 
 ```sh
